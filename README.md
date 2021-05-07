@@ -1,2 +1,2 @@
 # customwagtail
-(https://github.com/LuisFernandezDam/customwagtail/wagtal.jpg)
+(https://github.com/LuisFernandezDam/customwagtail/blob/main/wagtal.JPG)
