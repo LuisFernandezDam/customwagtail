@@ -1,2 +1,2 @@
 # customwagtail
-![https://github.com/LuisFernandezDam/customwagtail/blob/main/wagtal.JPG]
+![img](https://github.com/LuisFernandezDam/customwagtail/blob/main/wagtal.JPG)
